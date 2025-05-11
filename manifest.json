@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "n1ghtthef0x's VTuber Theme",
+  "theme": {
+    "images": {
+      "theme_frame": "frame.png"
+    },
+    "colors": {
+      "frame": "#E3008C",
+      "tab_background_text": "#fff"
+    }
+  }
+}

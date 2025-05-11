@@ -1,2 +1,4 @@
 # Builds
 *.zip
+# Firefox Cached Themes
+Cached Theme.pak

@@ -1,14 +1,19 @@
 {
-  "manifest_version": 2,
-  "version": "1.0",
   "name": "n1ghtthef0x's VTuber Theme",
+  "manifest_version": 2,
+  "version": "2.1",
   "theme": {
     "images": {
       "theme_frame": "frame.png"
     },
     "colors": {
-      "frame": "#E3008C",
-      "tab_background_text": "#fff"
+      "frame": [227, 0, 140, 1],
+      "tab_background_text": [255, 255, 255, 1],
+      "toolbar": [176, 0, 103, 1],
+      "bookmark_text": [255, 255, 255, 1],
+      "toolbar_field": [227, 0, 140, 1],
+      "toolbar_field_text": [255, 255, 255, 1],
+      "tab_line": [255, 0, 149, 1]
     }
   }
 }

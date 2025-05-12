@@ -1,4 +1,4 @@
 # Builds
-*.zip
-# Firefox Cached Themes
+web-ext-artifacts
+# Chrome Cached Themes
 Cached Theme.pak

@@ -1,19 +1,49 @@
 {
   "name": "n1ghtthef0x's VTuber Theme",
   "manifest_version": 2,
-  "version": "2.1",
+  "version": "2.2",
   "theme": {
     "images": {
       "theme_frame": "frame.png"
     },
     "colors": {
-      "frame": [227, 0, 140, 1],
-      "tab_background_text": [255, 255, 255, 1],
-      "toolbar": [176, 0, 103, 1],
-      "bookmark_text": [255, 255, 255, 1],
-      "toolbar_field": [227, 0, 140, 1],
-      "toolbar_field_text": [255, 255, 255, 1],
-      "tab_line": [255, 0, 149, 1]
+      "bookmark_text": [255, 255, 255],
+      "button_background_active": [176, 0, 103],
+      "button_background_hover": [255, 0, 157],
+      "icons": [255, 255, 255],
+      "icons_attention": [176, 0, 103],
+      "frame": [227, 0, 140],
+      "frame_inactive": [255, 255, 255],
+      "ntp_background": [175, 92, 129],
+      "ntp_card_background": [255, 0, 140],
+      "ntp_text": [255, 255, 255],
+      "popup": [176, 0, 103],
+      "popup_border": [255, 0, 140],
+      "popup_highlight": [255, 0, 140],
+      "popup_highlight_text": [255, 255, 255],
+      "popup_text": [255, 255, 255],
+      "sidebar": [176, 0, 103],
+      "sidebar_border": [255, 0, 140],
+      "sidebar_highlight": [255, 0, 140],
+      "sidebar_highlight_text": [255, 255, 255],
+      "sidebar_text": [255, 255, 255],
+      "tab_background_text": [200, 200, 200],
+      "tab_line": [255, 0, 140],
+      "tab_loading": [255, 0, 140],
+      "tab_selected": [255, 0, 140],
+      "tab_text": [255, 255, 255],
+      "toolbar": [176, 0, 103],
+      "toolbar_bottom_separator": [176, 0, 103],
+      "toolbar_field": [227, 0, 140],
+      "toolbar_field_border": [255, 0, 140],
+      "toolbar_field_border_focus": [227, 75, 140],
+      "toolbar_field_focus": [176, 0, 103],
+      "toolbar_field_highlight": [227, 75, 140],
+      "toolbar_field_text": [255, 255, 255],
+      "toolbar_field_text_focus": [255, 255, 255],
+      "toolbar_text": [255, 255, 255],
+      "toolbar_top_separator": [255, 75, 140],
+      "toolbar_vertical_separator": [255, 75, 140]
     }
   }
 }

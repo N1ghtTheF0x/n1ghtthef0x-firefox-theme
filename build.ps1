@@ -1,1 +1,1 @@
-Compress-Archive -Path ".\frame.png", ".\manifest.json" -Update -DestinationPath .\theme.zip
+web-ext build --overwrite-dest

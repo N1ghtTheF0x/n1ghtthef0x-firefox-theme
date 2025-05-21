@@ -1,7 +1,7 @@
 {
   "name": "n1ghtthef0x's VTuber Theme",
   "manifest_version": 2,
-  "version": "2.2",
+  "version": "2.3",
   "theme": {
     "images": {
       "theme_frame": "frame.png"

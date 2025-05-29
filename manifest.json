@@ -1,22 +1,33 @@
 {
   "name": "n1ghtthef0x's VTuber Theme",
   "manifest_version": 2,
-  "version": "2.3",
+  "version": "2.4",
   "theme": {
     "images": {
       "theme_frame": "frame.png"
     },
     "colors": {
+      "background_tab": [227, 75, 140],
+      "background_tab_inactive": [176, 0, 103],
+      "background_tab_incognito": [176, 0, 103],
+      "background_tab_incognito_inactive": [105, 0, 62],
       "bookmark_text": [255, 255, 255],
-      "button_background_active": [176, 0, 103],
+      "button_background": [105, 0, 62],
+      "button_background_active": [255, 0, 140],
       "button_background_hover": [255, 0, 157],
       "icons": [255, 255, 255],
-      "icons_attention": [176, 0, 103],
+      "icons_attention": [255, 255, 255],
       "frame": [227, 0, 140],
       "frame_inactive": [255, 255, 255],
+      "frame_incognito": [176, 0, 103],
+      "frame_incognito_inactive": [105, 0, 62],
       "ntp_background": [175, 92, 129],
+      "ntp_header": [227, 75, 140],
       "ntp_card_background": [255, 0, 140],
+      "ntp_link": [255, 0, 140],
       "ntp_text": [255, 255, 255],
+      "omnibox_background": [227, 0, 140],
+      "omnibox_text": [255, 255, 255],
       "popup": [176, 0, 103],
       "popup_border": [255, 0, 140],
       "popup_highlight": [255, 0, 140],
@@ -27,7 +38,10 @@
       "sidebar_highlight": [255, 0, 140],
       "sidebar_highlight_text": [255, 255, 255],
       "sidebar_text": [255, 255, 255],
-      "tab_background_text": [200, 200, 200],
+      "tab_background_text": [255, 255, 255],
+      "tab_background_text_inactive": [200, 200, 200],
+      "tab_background_text_incognito": [127, 127, 127],
+      "tab_background_text_incognito_inactive": [127, 127, 127],
       "tab_line": [255, 0, 140],
       "tab_loading": [255, 0, 140],
       "tab_selected": [255, 0, 140],
@@ -41,9 +55,14 @@
       "toolbar_field_highlight": [227, 75, 140],
       "toolbar_field_text": [255, 255, 255],
       "toolbar_field_text_focus": [255, 255, 255],
+      "toolbar_button_icon": [255, 255, 255],
       "toolbar_text": [255, 255, 255],
       "toolbar_top_separator": [255, 75, 140],
       "toolbar_vertical_separator": [255, 75, 140]
+    },
+    "tints": {
+      "background_tab": [0.9,1.0,0.35],
+      "buttons": [0.0,0.0,1.0]
     }
   }
 }
